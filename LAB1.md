@@ -11,7 +11,7 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
+| help    | man         |    describes the different ways that the powershell works and shows other types of help options     |
 | Get-Location | pwd    |        |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
