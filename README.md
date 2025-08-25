@@ -1,4 +1,7 @@
-## Hi there 👋
+## Andrew Wooddell
+# Computer Science Major
+# Working On java baseball game 
+# CS 1181 lab projects
 
 <!--
 **adwmmvi-lang/Adwmmvi-Lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
