@@ -1,7 +1,11 @@
 ## Andrew Wooddell
-### Computer Science Major
-### Working on a calculator application using Java 
-### Working on a calendar application using Java
+Computer Science Major
+
+## Projects
+Working on a calendar application using Java (Ongoing)
+
+Working on a calculator application using Java (Ongoing)
+
 
 <!--
 **adwmmvi-lang/Adwmmvi-Lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
