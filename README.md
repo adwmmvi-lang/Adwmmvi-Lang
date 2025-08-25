@@ -1,7 +1,7 @@
 ## Andrew Wooddell
 ### Computer Science Major
-### CEG 2350 lab Projects(TBD) 
-### CS 1181 lab projects(TBD)
+### Working on a calculator application using Java 
+### Working on a calendar application using Java
 
 <!--
 **adwmmvi-lang/Adwmmvi-Lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
