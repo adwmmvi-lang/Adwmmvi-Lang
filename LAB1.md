@@ -5,7 +5,7 @@
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [Adwmmvi-Lang's GitHub Profile](FIXTHISURL-https://github.com/your_username)
 
 ## Part 2 - Research
 
