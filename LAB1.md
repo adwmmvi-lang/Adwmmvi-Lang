@@ -15,7 +15,7 @@
 | Get-Location | pwd    |     Shows the current path to the file that you are using     |
 | Get-ChildItem | ls    |     Shows all the files in that directory   |
 | mkdir   | mkdir       |     Makes a directory   |
-| Set-Location | cd     |     Sets location of a file   |
+| Set-Location | cd     |     Sets location of the current directory  |
 | New-Item | touch      |     creates a new file   |
 | Move-Item | mv        |     moves a file    |
 | Copy-Item | cp        |     makes a copy of the file    |
@@ -33,10 +33,16 @@ My Command Line Shell is: Windows PowerShell
 
 ### Navigating My OS on the Command Line
 
-1. Full / absolute path to your user's home directory:
-2. Create a directory named `DirA`:
-3. Create a directory named `Dir B`:
-4. Go into `DirA`:
+1. Full / absolute path to your user's home directory:C:\Users\Awood>
+2. Create a directory named `DirA`:PS C:\Users\Awood> mkdir
+
+cmdlet mkdir at command pipeline position 1
+Supply values for the following parameters:
+Path[0]: DirA
+Path[1]: Dir B
+Path[2]:
+3. Create a directory named `Dir B`:Mentioned in question 2
+4. Go into `DirA`:PS C:\Users\Awood> set-location '.\DirA\'
 5. Go into `Dir B` from `DirA`:
 6. Return to your user's home directory:
 7. Create a file named `test.txt`:
