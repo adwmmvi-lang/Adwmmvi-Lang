@@ -11,16 +11,16 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |    describes the different ways that the powershell works and shows other types of help options     |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| help    | man         |    describes the different ways that powershell works and shows other types of help options     |
+| Get-Location | pwd    |     Shows the current path to the file that you are using     |
+| Get-ChildItem | ls    |     Shows all the files in that directory   |
+| mkdir   | mkdir       |     Makes a directory   |
+| Set-Location | cd     |     Sets location of a file   |
+| New-Item | touch      |     creates a new file   |
+| Move-Item | mv        |     moves a file    |
+| Copy-Item | cp        |     makes a copy of the file    |
+| Remove-Item | rm      |     delets the chosen file   |
+| notepad.exe | vim     |     Opens the notebook application stored in the computer   |
 
 ## Part 3 - Command Line Navigation
 
