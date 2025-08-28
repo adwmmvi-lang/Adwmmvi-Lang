@@ -40,11 +40,15 @@ cmdlet mkdir at command pipeline position 1
 Supply values for the following parameters:
 Path[0]: DirA
 Path[1]: Dir B
-Path[2]:
-3. Create a directory named `Dir B`:Mentioned in question 2
+
+3. Create a directory named `Dir B`: Mentioned in question 2
+
 4. Go into `DirA`:PS C:\Users\Awood> set-location '.\DirA\'
+
 5. Go into `Dir B` from `DirA`:
+
 6. Return to your user's home directory:
+
 7. Create a file named `test.txt`:
 8. Move the file named `test.txt` into `DirA`:
 9. Contents of `test.txt`:
