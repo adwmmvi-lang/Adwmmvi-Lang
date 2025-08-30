@@ -1,0 +1,44 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+        int userCash = 5;
+        String userGameChoice;
+        boolean gameActive = true;
+        int coinFlip;
+        boolean userPlay = true;
+
+
+        boolean userBetMode = true;
+
+        Gambling Gambling = new Gambling();
+        GameChoice gameChoice = new GameChoice();
+        userBet userBetAmt = new userBet();
+
+        while(userPlay){
+        gameChoice.chooseGame();
+        int gameChosen = gameChoice.chooseGame();
+        if (gameChosen == 1){
+            System.out.println("You have " + userCash +  " Dollars!");
+            userCash = userCash - userBetAmt.makeBet();
+            ;
+            if (Gambling.rollDice() == 1){
+                userCash =  userBetAmt.makeBet() * 2;
+                System.out.println("You have " + userCash + " dollars");
+            }
+            else {
+                System.out.println("You have " + userCash + " dollars");
+            }
+
+            if (gameChoice.userQuit() == 1){
+                userPlay = false;
+            }
+            else {
+                System.out.println();
+            }
+        }
+
+    }
+}
+}
+
